@@ -160,20 +160,6 @@ Isso ocorre se o Token JWT pertencer a um usuário que foi deletado do banco. Fa
 
 ---
 
-## Estrutura de Arquivos
-
-```
-MindWork/
-├── MindWork.Api/                 # Projeto Backend Principal
-│   ├── Controllers/              # API Endpoints
-│   ├── Domain/                   # Regras de Negócio
-│   ├── Services/AiService.cs     # Integração com Google Gemini
-│   └── iot_sensor.py             # Script Cliente Python (IoT)
-└── README.md                     # Documentação
-```
-
----
-
 ## Nossos integrantes
 - **Gustavo Camargo de Andrade**
 - RM555562
