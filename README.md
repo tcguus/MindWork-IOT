@@ -103,6 +103,8 @@ Para validar a integração completa (IoT → API → IA), siga este roteiro. Id
 
 Acesse `https://localhost:7034/swagger` e utilize o endpoint **POST /api/v1/Auth/register** para criar os 3 atores do sistema:
 
+> Este usuário máquina **PRECISA** ser registrado antes de rodar o código python
+
 **Dispositivo IoT (Usuário de máquina):**
 - Email: `iot.device@mindwork.com`
 - Senha: `Password123!`
