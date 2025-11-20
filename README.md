@@ -16,6 +16,14 @@ O sistema foi desenhado para demonstrar a integração real entre três pilares 
 
 ---
 
+##  Links Importantes
+
+*  **Vídeo de Demonstração : https://youtu.be/KneJmhZtW3w**
+*  **Repositório da API (.NET): https://github.com/tcguus/MindWork-API**
+
+
+---
+
 ## Tecnologias Utilizadas
 
 ### Backend (API)
